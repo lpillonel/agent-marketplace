@@ -1,0 +1,5 @@
+{
+  "description": "Minimal example skill, proving the agent-control -> agent-marketplace publish pipeline end to end.",
+  "name": "example",
+  "version": "2026.09.08"
+}
