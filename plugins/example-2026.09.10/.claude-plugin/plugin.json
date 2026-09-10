@@ -1,6 +1,5 @@
 {
   "description": "Minimal example skill, proving the agent-control -> agent-marketplace publish pipeline end to end.",
-  "interface": {},
   "name": "example",
-  "version": "2026.09.08.1"
+  "version": "2026.09.10"
 }
